@@ -35,7 +35,8 @@ This project presents a Tableau dashboard analyzing electric grid reliability in
 > The full interactive dashboard is published on Tableau Public.  
 > 👉 [View on Tableau Public](https://public.tableau.com/app/profile/janati.nakimera/viz/GridReliabilityDashboard/GridReliabilityDashboard?publish=yes)
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](./dashboard_overview.png)
+
 
 ---
 
