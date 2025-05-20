@@ -13,12 +13,13 @@ This project presents a Tableau dashboard analyzing electric grid reliability in
 
 ## 🔍 Key Features
 
-- **Reliability Metrics Overview**: Interactive KPI cards showing annual SAIDI, SAIFI, and CAIDI values.
-- **Trends Over Time**: Line charts tracking reliability indices from 2018–2022.
-- **Outage Map** *(Optional)*: Geographic visualization using latitude and longitude.
-- **Cause Analysis** *(if added)*: Breakdown of outages by type such as weather, equipment failure, etc.
-- **Executive Insights**: Commentary and annotations for deeper understanding.
-- **Filters**: Drop-down controls for state and year selection.
+- **Interactive KPI Cards**: Display average SAIDI, SAIFI, CAIDI and percentage changes over the selected time frame.
+- **SAIDI Index Trends**: Line chart comparing SAIDI across states (e.g., MA and TX) from 2018–2022.
+- **SAIFI Index Trends**: Line chart showing reliability frequency trends over time.
+- **CAIDI Over Time**: Bar chart illustrating average interruption durations year-by-year.
+- **Filter Controls**: Custom dropdown filters for year and state to dynamically update visuals.
+- **Color-Coded Dashboard**: Distinct styling to highlight key metrics and performance changes.
+- **Executive Insight Zones**: KPIs are visually separated for easier stakeholder review and snapshot reporting.
 
 ---
 
