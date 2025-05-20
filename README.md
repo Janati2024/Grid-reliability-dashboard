@@ -54,7 +54,9 @@ This dashboard is a standalone portfolio project by **Janati Nakimera**, showcas
 
 ## 👋 Let’s Connect
 
-For questions, suggestions, or opportunities, feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/janati-nakimera).
+For any questions or collaboration, feel free to connect via [LinkedIn](https://www.linkedin.com/in/janati-nakimera-b9b089334/).
+
+
 
 ---
 
